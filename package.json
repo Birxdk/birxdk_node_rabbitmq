@@ -1,0 +1,28 @@
+{
+  "name": "birxdk_node_rabbitmq",
+  "version": "1.0.0",
+  "description": "Example of how to use node with rabbitmq",
+  "main": "publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Birxdk/birxdk_node_rabbitmq.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "nodejs",
+    "javascript",
+    "topicExchange"
+  ],
+  "author": "Birxlabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Birxdk/birxdk_node_rabbitmq/issues"
+  },
+  "homepage": "https://github.com/Birxdk/birxdk_node_rabbitmq#readme",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
