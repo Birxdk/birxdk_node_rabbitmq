@@ -3,7 +3,7 @@ Example of how to publish and consume messages using RabbitMQ and topicExchange
 
 
 # Dependencies #
-You need to have a access to rabbitMQ, locally is works just fine. 
+You need to have a access to rabbitMQ, localhost works just fine. 
 
 # Install #
 Before running the publisher/consumer install the npm packages
